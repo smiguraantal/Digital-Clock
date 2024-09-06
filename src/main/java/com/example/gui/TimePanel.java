@@ -1,6 +1,6 @@
-package gui;
+package com.example.gui;
 
-import section.Number;
+import com.example.section.Number;
 
 import javax.swing.JPanel;
 import java.awt.GridLayout;

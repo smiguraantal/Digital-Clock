@@ -1,4 +1,4 @@
-package gui;
+package com.example.gui;
 
 /**
  * <p>Title: DigitalClock</p>

@@ -1,4 +1,6 @@
-package gui;
+package com.example;
+
+import com.example.gui.MainFrame;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;
