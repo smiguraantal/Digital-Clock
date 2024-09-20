@@ -1,7 +1,7 @@
-package com.example.gui;
+package org.example.gui;
 
 
-import com.example.section.Colon;
+import org.example.section.Colon;
 
 import javax.swing.JPanel;
 import java.awt.Color;

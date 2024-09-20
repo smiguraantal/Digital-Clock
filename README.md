@@ -4,6 +4,10 @@ The application was inspired by the numbers displayed in the Windows XP Mineswee
 
 By modifying the source code, the display of the numbers can be easily adjusted: changing the `UNIT` in the `Constants` interface alters the size of the numbers, while modifying the `LIGHT_COLOR` and `DARK_COLOR` constants changes the colors of the illuminated and dim segments.
 
+## Setup
+
+To start the application, run the `DigitalClock.java` file located in the `org.example` package.
+
 ## Screenshots
 
 <img src=docs/01.jpg alt="" width="600">

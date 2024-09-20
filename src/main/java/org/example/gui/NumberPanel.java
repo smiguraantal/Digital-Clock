@@ -1,14 +1,14 @@
-package com.example.gui;
+package org.example.gui;
 
-import com.example.section.Number;
+import org.example.section.Number;
 
-import com.example.section.Center;
-import com.example.section.North;
-import com.example.section.NorthEast;
-import com.example.section.NorthWest;
-import com.example.section.South;
-import com.example.section.SouthEast;
-import com.example.section.SouthWest;
+import org.example.section.Center;
+import org.example.section.North;
+import org.example.section.NorthEast;
+import org.example.section.NorthWest;
+import org.example.section.South;
+import org.example.section.SouthEast;
+import org.example.section.SouthWest;
 
 import javax.swing.JPanel;
 import java.awt.Color;

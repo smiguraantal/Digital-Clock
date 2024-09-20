@@ -1,4 +1,4 @@
-package com.example.section;
+package org.example.section;
 
 /**
  * <p>Title: DigitalClock</p>

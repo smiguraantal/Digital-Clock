@@ -1,4 +1,4 @@
-package com.example.section;
+package org.example.section;
 
 import java.awt.Point;
 import java.util.ArrayList;
